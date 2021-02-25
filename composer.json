@@ -1,0 +1,99 @@
+{
+  "name": "statenweb/elementor-generatepress",
+  "type": "project",
+  "license": "MIT",
+  "description": "Forked version of WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
+  "homepage": "https://roots.io/bedrock/",
+  "authors": [
+    {
+      "name": "Mat Gargano",
+      "email": "mat@statenweb.com",
+      "homepage": "https://github.com/matgargano"
+    }
+  ],
+  "keywords": [
+    "bedrock",
+    "roots",
+    "wordpress",
+    "stack",
+    "composer",
+    "vagrant",
+    "wp"
+  ],
+  "support": {
+    "issues": "https://github.com/roots/bedrock/issues",
+    "forum": "https://discourse.roots.io/category/bedrock"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    },
+    {
+      "type": "composer",
+      "url": "https://satis.statenweb.com"
+    },
+    {
+      "type": "composer",
+      "url": "https://composer.deliciousbrains.com/A3E1F7021543E61F2196AADB74515E59"
+    },
+    {
+      "type": "composer",
+      "url" : "https://composer.freemius.com/packages.json?authorization=Basic+bWF0QHN0YXRlbndlYi5jb206X1pkRnNWOENHNndhVHVWVGFDMGl0ZG1fOEhUN2VwbmRRWjVNODNxNmI1cw%3D%3D"
+    },
+    {
+      "type": "composer",
+      "url" : "https://composer.freemius.com/packages.json?authorization=Basic+bWF0QHN0YXRlbndlYi5jb206cmFkTXVQcHpBVUV2VHpQdFR0bzkya3M2cmZZQkFGNTNjR0pDZ1VHdWU3aw%3D%3D"
+    }
+  ],
+  "require": {
+    "php": ">=5.6",
+    "composer/installers": "~1.0.12",
+    "roots/wp-config": "1.0.0",
+    "vlucas/phpdotenv": "^3.3",
+    "oscarotero/env": "^1.0",
+    "statenweb-plugin/advanced-custom-fields-pro": "^5.7",
+    "deliciousbrains-plugin/wp-migrate-db-pro": "^1.8",
+    "deliciousbrains-plugin/wp-migrate-db-pro-media-files": "^1.4",
+    "wpackagist-plugin/stream": "^3.2",
+    "statenweb-plugin/google-analytics-premium": "^7.0",
+    "roots/wordpress": "5.*",
+    "wpackagist-plugin/spinupwp": "^1.1",
+    "wpackagist-plugin/limit-login-attempts-reloaded": "^2.10",
+    "wpackagist-plugin/regenerate-thumbnails": "^3.1",
+    "wpackagist-plugin/autoptimize": "^2.7",
+    "wpackagist-plugin/safe-svg": "^1.9",
+    "wpackagist-plugin/wp-ses": "^1.4",
+    "wpackagist-plugin/wordpress-seo": "^15.4",
+    "statenweb-plugin/gravityforms": "^2.4",
+    "wpackagist-plugin/elementor": "^3.1",
+    "wpackagist-theme/generatepress": "^3.0",
+    "statenweb-plugin/elementor-pro": "^3.1"
+
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^2.5.1"
+  },
+  "extra": {
+    "installer-paths": {
+      "web/wp-content/mu-plugins/{$name}/": [
+        "type:wordpress-muplugin"
+      ],
+      "web/wp-content/plugins/{$name}/": [
+        "type:wordpress-plugin"
+      ],
+      "web/wp-content/themes/{$name}/": [
+        "type:wordpress-theme"
+      ]
+    },
+    "wordpress-install-dir": "web/wp"
+  },
+  "scripts": {
+    "test": [
+      "vendor/bin/phpcs"
+    ]
+  }
+}
