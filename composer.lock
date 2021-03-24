@@ -414,17 +414,17 @@
         },
         {
             "name": "statenweb-plugin/google-analytics-premium",
-            "version": "7.16.2000000",
+            "version": "7.17.0000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-google-analytics-premium.git",
-                "reference": "f5a1e5f367559a4cc1424b410297a7d0ce913474"
+                "reference": "f1492a595a83e9b2c73ea302ec69b591dc50060e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/google-analytics-premium/statenweb-plugin-google-analytics-premium-f5a1e5f367559a4cc1424b410297a7d0ce913474-zip-999bfe.zip",
-                "reference": "f5a1e5f367559a4cc1424b410297a7d0ce913474",
-                "shasum": "85692b31083b2e7abd407cff0c01d64897af325c"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/google-analytics-premium/statenweb-plugin-google-analytics-premium-f1492a595a83e9b2c73ea302ec69b591dc50060e-zip-f5f790.zip",
+                "reference": "f1492a595a83e9b2c73ea302ec69b591dc50060e",
+                "shasum": "372e828ed49452d19db056a32ecd6543e17b6e01"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -432,9 +432,9 @@
             ],
             "description": "WordPress plugin `google-analytics-premium`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-google-analytics-premium/tree/7.16.2000000"
+                "source": "https://github.com/statenweb/wordress-plugin-google-analytics-premium/tree/7.17.0000000"
             },
-            "time": "2021-02-22T14:45:07+00:00"
+            "time": "2021-03-23T15:00:10+00:00"
         },
         {
             "name": "statenweb-plugin/gravityforms",
