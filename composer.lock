@@ -390,17 +390,17 @@
         },
         {
             "name": "statenweb-plugin/elementor-pro",
-            "version": "3.1.1000000",
+            "version": "3.2.1000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-elementor-pro.git",
-                "reference": "c5e00e71c86754b57c15edf2fd0c6f40ae9aad57"
+                "reference": "726fecc957148e8d8e8a5a2d10994ed6836a1212"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/elementor-pro/statenweb-plugin-elementor-pro-c5e00e71c86754b57c15edf2fd0c6f40ae9aad57-zip-3cdee3.zip",
-                "reference": "c5e00e71c86754b57c15edf2fd0c6f40ae9aad57",
-                "shasum": "55e74e090fecf4d8797c1024125751a2304c95a4"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/elementor-pro/statenweb-plugin-elementor-pro-726fecc957148e8d8e8a5a2d10994ed6836a1212-zip-7b0067.zip",
+                "reference": "726fecc957148e8d8e8a5a2d10994ed6836a1212",
+                "shasum": "3aedd737c329e55de0e9641842684b8e7ff49ca9"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -408,9 +408,9 @@
             ],
             "description": "WordPress plugin `elementor-pro`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.1.1000000"
+                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.2.1000000"
             },
-            "time": "2021-02-25T19:30:08+00:00"
+            "time": "2021-03-27T02:30:06+00:00"
         },
         {
             "name": "statenweb-plugin/google-analytics-premium",
@@ -623,15 +623,15 @@
         },
         {
             "name": "wpackagist-plugin/limit-login-attempts-reloaded",
-            "version": "2.20.4",
+            "version": "2.20.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/limit-login-attempts-reloaded/",
-                "reference": "tags/2.20.4"
+                "reference": "tags/2.20.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.20.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.20.6.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
