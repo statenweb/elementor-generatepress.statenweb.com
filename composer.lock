@@ -438,17 +438,17 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.4.23000000",
+            "version": "2.4.24000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "6361b64250d778e393e01a957de4525d91573953"
+                "reference": "7dda1cbc422c4453e4e66dfcf5a9f4a369604f93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-6361b64250d778e393e01a957de4525d91573953-zip-fc9fcf.zip",
-                "reference": "6361b64250d778e393e01a957de4525d91573953",
-                "shasum": "5199f14fd529d70decbdee515b82359f434d236b"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-7dda1cbc422c4453e4e66dfcf5a9f4a369604f93-zip-1bb31b.zip",
+                "reference": "7dda1cbc422c4453e4e66dfcf5a9f4a369604f93",
+                "shasum": "24f3d5ceee1a7b9eca052d914f910036c213e728"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -456,9 +456,9 @@
             ],
             "description": "WordPress plugin `gravityforms`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.4.23000000"
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.4.24000000"
             },
-            "time": "2021-03-03T14:45:11+00:00"
+            "time": "2021-04-14T14:45:09+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
