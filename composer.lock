@@ -230,16 +230,16 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "5.7",
+            "version": "5.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "5.7"
+                "reference": "5.7.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.7",
-                "reference": "5.7"
+                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/refs/tags/5.7.1",
+                "reference": "5.7.1"
             },
             "require": {
                 "php": ">=5.3.2",
@@ -263,7 +263,7 @@
                 "cms",
                 "wordpress"
             ],
-            "time": "2021-03-09T20:23:15+00:00"
+            "time": "2021-04-15T02:11:19+00:00"
         },
         {
             "name": "roots/wordpress-core-installer",
@@ -623,15 +623,15 @@
         },
         {
             "name": "wpackagist-plugin/limit-login-attempts-reloaded",
-            "version": "2.20.6",
+            "version": "2.21.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/limit-login-attempts-reloaded/",
-                "reference": "tags/2.20.6"
+                "reference": "tags/2.21.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.20.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.21.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
