@@ -73,7 +73,8 @@
     "deliciousbrains-plugin/wp-migrate-db-pro": "^2.0",
     "deliciousbrains-plugin/wp-migrate-db-pro-media-files": "^2.0",
     "statenweb-plugin/wp-rocket": "^3.8",
-    "statenweb-plugin/webarx": "^2.0"
+    "statenweb-plugin/webarx": "^2.0",
+    "wpackagist-plugin/shortpixel-image-optimiser": "^4.22"
 
   },
   "require-dev": {

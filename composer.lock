@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cc829f6c5b679b9c1c8bfb275d83846f",
+    "content-hash": "c6022cc3688b995a39b6dfa73fc8ec5a",
     "packages": [
         {
             "name": "composer/installers",
@@ -413,6 +413,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.5000000"
+            },
             "time": "2021-02-13T14:45:06+00:00"
         },
         {
@@ -773,6 +776,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/safe-svg/"
+        },
+        {
+            "name": "wpackagist-plugin/shortpixel-image-optimiser",
+            "version": "4.22.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/shortpixel-image-optimiser/",
+                "reference": "tags/4.22.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.22.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/shortpixel-image-optimiser/"
         },
         {
             "name": "wpackagist-plugin/spinupwp",
