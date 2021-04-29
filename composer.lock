@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "238109433035c2ff3ebb2c93de1e83ee",
+    "content-hash": "cc829f6c5b679b9c1c8bfb275d83846f",
     "packages": [
         {
             "name": "composer/installers",
@@ -108,10 +108,10 @@
         },
         {
             "name": "deliciousbrains-plugin/wp-migrate-db-pro",
-            "version": "1.9.14",
+            "version": "2.0",
             "dist": {
                 "type": "zip",
-                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=1.9.14&composer_key=A3E1F7021543E61F2196AADB74515E59"
+                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.0&composer_key=A3E1F7021543E61F2196AADB74515E59"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -120,10 +120,10 @@
         },
         {
             "name": "deliciousbrains-plugin/wp-migrate-db-pro-media-files",
-            "version": "1.4.16",
+            "version": "2.0",
             "dist": {
                 "type": "zip",
-                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-media-files&version=1.4.16&composer_key=A3E1F7021543E61F2196AADB74515E59"
+                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-media-files&version=2.0&composer_key=A3E1F7021543E61F2196AADB74515E59"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -226,6 +226,16 @@
                 "php",
                 "type"
             ],
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/phpoption/phpoption",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2020-07-20T17:29:33+00:00"
         },
         {
@@ -262,6 +272,16 @@
                 "blog",
                 "cms",
                 "wordpress"
+            ],
+            "funding": [
+                {
+                    "url": "https://github.com/roots",
+                    "type": "github"
+                },
+                {
+                    "url": "https://www.patreon.com/rootsdev",
+                    "type": "patreon"
+                }
             ],
             "time": "2021-04-15T02:11:19+00:00"
         },
@@ -319,6 +339,16 @@
             "description": "A custom installer to handle deploying WordPress with composer",
             "keywords": [
                 "wordpress"
+            ],
+            "funding": [
+                {
+                    "url": "https://github.com/roots",
+                    "type": "github"
+                },
+                {
+                    "url": "https://www.patreon.com/rootsdev",
+                    "type": "patreon"
+                }
             ],
             "time": "2020-08-20T00:27:30+00:00"
         },
@@ -383,9 +413,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.5000000"
-            },
             "time": "2021-02-13T14:45:06+00:00"
         },
         {
@@ -461,6 +488,54 @@
             "time": "2021-04-14T14:45:09+00:00"
         },
         {
+            "name": "statenweb-plugin/webarx",
+            "version": "2.0.18000000",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:statenweb/wordress-plugin-webarx.git",
+                "reference": "0ab9cd6bf6926e4251a8a8092ac1b280f2288009"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/webarx/statenweb-plugin-webarx-0ab9cd6bf6926e4251a8a8092ac1b280f2288009-zip-462730.zip",
+                "reference": "0ab9cd6bf6926e4251a8a8092ac1b280f2288009",
+                "shasum": "c9d7b8045c46432213071fb2ab2c65a888df05ab"
+            },
+            "type": "wordpress-plugin",
+            "license": [
+                "GPLv3"
+            ],
+            "description": "WordPress plugin `webarx`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.18000000"
+            },
+            "time": "2021-04-26T23:57:34+00:00"
+        },
+        {
+            "name": "statenweb-plugin/wp-rocket",
+            "version": "3.8.8000000",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:statenweb/wordress-plugin-wp-rocket.git",
+                "reference": "f8349b450ae672999f02d43c982f41a95575a89e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/wp-rocket/statenweb-plugin-wp-rocket-f8349b450ae672999f02d43c982f41a95575a89e-zip-93d044.zip",
+                "reference": "f8349b450ae672999f02d43c982f41a95575a89e",
+                "shasum": "61b311f32f898766da09ba650041a36082e5d5bc"
+            },
+            "type": "wordpress-plugin",
+            "license": [
+                "GPLv3"
+            ],
+            "description": "WordPress plugin `wp-rocket`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-wp-rocket/tree/3.8.8000000"
+            },
+            "time": "2021-04-26T11:42:34+00:00"
+        },
+        {
             "name": "symfony/polyfill-ctype",
             "version": "v1.22.1",
             "source": {
@@ -519,6 +594,20 @@
                 "ctype",
                 "polyfill",
                 "portable"
+            ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
             ],
             "time": "2021-01-07T16:49:33+00:00"
         },
@@ -583,6 +672,16 @@
                 "env",
                 "environment"
             ],
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/vlucas/phpdotenv",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2021-01-20T14:39:46+00:00"
         },
         {
@@ -605,15 +704,15 @@
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.2.1",
+            "version": "3.2.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.2.1"
+                "reference": "tags/3.2.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.2.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.2.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -713,15 +812,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "16.1.1",
+            "version": "16.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/16.1.1"
+                "reference": "tags/16.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.1.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -854,5 +953,6 @@
     "platform": {
         "php": ">=5.6"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }

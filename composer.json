@@ -56,8 +56,6 @@
     "vlucas/phpdotenv": "^3.3",
     "oscarotero/env": "^1.0",
     "statenweb-plugin/advanced-custom-fields-pro": "^5.7",
-    "deliciousbrains-plugin/wp-migrate-db-pro": "^1.8",
-    "deliciousbrains-plugin/wp-migrate-db-pro-media-files": "^1.4",
     "wpackagist-plugin/stream": "^3.2",
     "statenweb-plugin/google-analytics-premium": "^7.0",
     "roots/wordpress": "5.*",
@@ -71,7 +69,11 @@
     "statenweb-plugin/gravityforms": "^2.4",
     "wpackagist-plugin/elementor": "^3.1",
     "wpackagist-theme/generatepress": "^3.0",
-    "statenweb-plugin/elementor-pro": "^3.1"
+    "statenweb-plugin/elementor-pro": "^3.1",
+    "deliciousbrains-plugin/wp-migrate-db-pro": "^2.0",
+    "deliciousbrains-plugin/wp-migrate-db-pro-media-files": "^2.0",
+    "statenweb-plugin/wp-rocket": "^3.8",
+    "statenweb-plugin/webarx": "^2.0"
 
   },
   "require-dev": {
