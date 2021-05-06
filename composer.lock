@@ -108,10 +108,10 @@
         },
         {
             "name": "deliciousbrains-plugin/wp-migrate-db-pro",
-            "version": "2.0",
+            "version": "2.0.1",
             "dist": {
                 "type": "zip",
-                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.0&composer_key=A3E1F7021543E61F2196AADB74515E59"
+                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.0.1&composer_key=A3E1F7021543E61F2196AADB74515E59"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -226,16 +226,6 @@
                 "php",
                 "type"
             ],
-            "funding": [
-                {
-                    "url": "https://github.com/GrahamCampbell",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/phpoption/phpoption",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2020-07-20T17:29:33+00:00"
         },
         {
@@ -272,16 +262,6 @@
                 "blog",
                 "cms",
                 "wordpress"
-            ],
-            "funding": [
-                {
-                    "url": "https://github.com/roots",
-                    "type": "github"
-                },
-                {
-                    "url": "https://www.patreon.com/rootsdev",
-                    "type": "patreon"
-                }
             ],
             "time": "2021-04-15T02:11:19+00:00"
         },
@@ -339,16 +319,6 @@
             "description": "A custom installer to handle deploying WordPress with composer",
             "keywords": [
                 "wordpress"
-            ],
-            "funding": [
-                {
-                    "url": "https://github.com/roots",
-                    "type": "github"
-                },
-                {
-                    "url": "https://www.patreon.com/rootsdev",
-                    "type": "patreon"
-                }
             ],
             "time": "2020-08-20T00:27:30+00:00"
         },
@@ -496,13 +466,13 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-webarx.git",
-                "reference": "0ab9cd6bf6926e4251a8a8092ac1b280f2288009"
+                "reference": "8aaccdf3243158a8c70d20e2e3ee3c3dac375219"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/webarx/statenweb-plugin-webarx-0ab9cd6bf6926e4251a8a8092ac1b280f2288009-zip-462730.zip",
-                "reference": "0ab9cd6bf6926e4251a8a8092ac1b280f2288009",
-                "shasum": "c9d7b8045c46432213071fb2ab2c65a888df05ab"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/webarx/statenweb-plugin-webarx-8aaccdf3243158a8c70d20e2e3ee3c3dac375219-zip-ef0c8e.zip",
+                "reference": "8aaccdf3243158a8c70d20e2e3ee3c3dac375219",
+                "shasum": "0897661e0426cce3ed25692f6dc26680115c1e9f"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -512,7 +482,7 @@
             "support": {
                 "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.18000000"
             },
-            "time": "2021-04-26T23:57:34+00:00"
+            "time": "2021-05-03T13:07:07+00:00"
         },
         {
             "name": "statenweb-plugin/wp-rocket",
@@ -598,20 +568,6 @@
                 "polyfill",
                 "portable"
             ],
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-01-07T16:49:33+00:00"
         },
         {
@@ -675,29 +631,19 @@
                 "env",
                 "environment"
             ],
-            "funding": [
-                {
-                    "url": "https://github.com/GrahamCampbell",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/vlucas/phpdotenv",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-01-20T14:39:46+00:00"
         },
         {
             "name": "wpackagist-plugin/autoptimize",
-            "version": "2.8.3",
+            "version": "2.8.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/autoptimize/",
-                "reference": "tags/2.8.3"
+                "reference": "tags/2.8.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/autoptimize.2.8.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/autoptimize.2.8.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -707,15 +653,15 @@
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.2.2",
+            "version": "3.2.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.2.2"
+                "reference": "tags/3.2.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.2.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.2.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -779,15 +725,15 @@
         },
         {
             "name": "wpackagist-plugin/shortpixel-image-optimiser",
-            "version": "4.22.0",
+            "version": "4.22.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/shortpixel-image-optimiser/",
-                "reference": "tags/4.22.0"
+                "reference": "tags/4.22.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.22.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.22.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -974,6 +920,5 @@
     "platform": {
         "php": ">=5.6"
     },
-    "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "platform-dev": []
 }
