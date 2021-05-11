@@ -108,10 +108,10 @@
         },
         {
             "name": "deliciousbrains-plugin/wp-migrate-db-pro",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "dist": {
                 "type": "zip",
-                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.0.1&composer_key=A3E1F7021543E61F2196AADB74515E59"
+                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.0.2&composer_key=A3E1F7021543E61F2196AADB74515E59"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -120,10 +120,10 @@
         },
         {
             "name": "deliciousbrains-plugin/wp-migrate-db-pro-media-files",
-            "version": "2.0",
+            "version": "2.0.1",
             "dist": {
                 "type": "zip",
-                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-media-files&version=2.0&composer_key=A3E1F7021543E61F2196AADB74515E59"
+                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-media-files&version=2.0.1&composer_key=A3E1F7021543E61F2196AADB74515E59"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -226,16 +226,6 @@
                 "php",
                 "type"
             ],
-            "funding": [
-                {
-                    "url": "https://github.com/GrahamCampbell",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/phpoption/phpoption",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2020-07-20T17:29:33+00:00"
         },
         {
@@ -272,16 +262,6 @@
                 "blog",
                 "cms",
                 "wordpress"
-            ],
-            "funding": [
-                {
-                    "url": "https://github.com/roots",
-                    "type": "github"
-                },
-                {
-                    "url": "https://www.patreon.com/rootsdev",
-                    "type": "patreon"
-                }
             ],
             "time": "2021-04-15T02:11:19+00:00"
         },
@@ -339,16 +319,6 @@
             "description": "A custom installer to handle deploying WordPress with composer",
             "keywords": [
                 "wordpress"
-            ],
-            "funding": [
-                {
-                    "url": "https://github.com/roots",
-                    "type": "github"
-                },
-                {
-                    "url": "https://www.patreon.com/rootsdev",
-                    "type": "patreon"
-                }
             ],
             "time": "2020-08-20T00:27:30+00:00"
         },
@@ -413,9 +383,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.5000000"
-            },
             "time": "2021-02-13T14:45:06+00:00"
         },
         {
@@ -509,9 +476,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `webarx`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.18000000"
-            },
             "time": "2021-05-03T13:07:07+00:00"
         },
         {
@@ -598,20 +562,6 @@
                 "polyfill",
                 "portable"
             ],
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-01-07T16:49:33+00:00"
         },
         {
@@ -674,16 +624,6 @@
                 "dotenv",
                 "env",
                 "environment"
-            ],
-            "funding": [
-                {
-                    "url": "https://github.com/GrahamCampbell",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/vlucas/phpdotenv",
-                    "type": "tidelift"
-                }
             ],
             "time": "2021-01-20T14:39:46+00:00"
         },
@@ -992,6 +932,5 @@
     "platform": {
         "php": ">=5.6"
     },
-    "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "platform-dev": []
 }
