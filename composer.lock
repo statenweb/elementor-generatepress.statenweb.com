@@ -383,6 +383,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.5000000"
+            },
             "time": "2021-02-13T14:45:06+00:00"
         },
         {
@@ -476,6 +479,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `webarx`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.18000000"
+            },
             "time": "2021-05-03T13:07:07+00:00"
         },
         {
@@ -755,15 +761,15 @@
         },
         {
             "name": "wpackagist-plugin/stream",
-            "version": "3.6.2",
+            "version": "3.7.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/stream/",
-                "reference": "tags/3.6.2"
+                "reference": "tags/3.7.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/stream.3.6.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/stream.3.7.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
