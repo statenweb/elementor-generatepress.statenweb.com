@@ -407,9 +407,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `elementor-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.2.1000000"
-            },
             "time": "2021-03-27T02:30:06+00:00"
         },
         {
@@ -438,17 +435,17 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.4.24000000",
+            "version": "2.5.1000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "7dda1cbc422c4453e4e66dfcf5a9f4a369604f93"
+                "reference": "121bf6a91363c0d3647d0db6ef9f3e7d3793a961"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-7dda1cbc422c4453e4e66dfcf5a9f4a369604f93-zip-1bb31b.zip",
-                "reference": "7dda1cbc422c4453e4e66dfcf5a9f4a369604f93",
-                "shasum": "24f3d5ceee1a7b9eca052d914f910036c213e728"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-121bf6a91363c0d3647d0db6ef9f3e7d3793a961-zip-af12be.zip",
+                "reference": "121bf6a91363c0d3647d0db6ef9f3e7d3793a961",
+                "shasum": "49b24994c0b91c96098333b83e7df9ed73c335b3"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -456,9 +453,9 @@
             ],
             "description": "WordPress plugin `gravityforms`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.4.24000000"
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.1000000"
             },
-            "time": "2021-04-14T14:45:09+00:00"
+            "time": "2021-05-14T15:15:09+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
