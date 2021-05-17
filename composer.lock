@@ -407,6 +407,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `elementor-pro`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.2.1000000"
+            },
             "time": "2021-03-27T02:30:06+00:00"
         },
         {
