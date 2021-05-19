@@ -383,9 +383,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.5000000"
-            },
             "time": "2021-02-13T14:45:06+00:00"
         },
         {
@@ -479,9 +476,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `webarx`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.18000000"
-            },
             "time": "2021-05-03T13:07:07+00:00"
         },
         {
@@ -779,15 +773,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "16.2",
+            "version": "16.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/16.2"
+                "reference": "tags/16.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
