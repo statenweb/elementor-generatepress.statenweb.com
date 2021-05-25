@@ -366,24 +366,24 @@
         },
         {
             "name": "statenweb-plugin/advanced-custom-fields-pro",
-            "version": "5.9.5000000",
+            "version": "5.9.6000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-advanced-custom-fields-pro.git",
-                "reference": "92b7484b9f8afe8ccee65af4d11e68ede9a98286"
+                "reference": "9711e2f353522dcfab8d265ec64881910eb84f43"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-92b7484b9f8afe8ccee65af4d11e68ede9a98286-zip-1c9de4.zip",
-                "reference": "92b7484b9f8afe8ccee65af4d11e68ede9a98286",
-                "shasum": "8708c6eb2e32113f0291ed7ab121bbe99e84f13a"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-9711e2f353522dcfab8d265ec64881910eb84f43-zip-431451.zip",
+                "reference": "9711e2f353522dcfab8d265ec64881910eb84f43",
+                "shasum": "cb3ea901857b99f12c67f06c686a360373a4f847"
             },
             "type": "wordpress-plugin",
             "license": [
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
-            "time": "2021-02-13T14:45:06+00:00"
+            "time": "2021-05-22T14:45:05+00:00"
         },
         {
             "name": "statenweb-plugin/elementor-pro",
@@ -435,17 +435,17 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.1000000",
+            "version": "2.5.2000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "121bf6a91363c0d3647d0db6ef9f3e7d3793a961"
+                "reference": "c235199d6441cae2c00caa3c6638ac2ae9309faa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-121bf6a91363c0d3647d0db6ef9f3e7d3793a961-zip-af12be.zip",
-                "reference": "121bf6a91363c0d3647d0db6ef9f3e7d3793a961",
-                "shasum": "49b24994c0b91c96098333b83e7df9ed73c335b3"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-c235199d6441cae2c00caa3c6638ac2ae9309faa-zip-d0c15e.zip",
+                "reference": "c235199d6441cae2c00caa3c6638ac2ae9309faa",
+                "shasum": "1c087476bb0326334607a9eb691a8933a9fb3d88"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -453,9 +453,9 @@
             ],
             "description": "WordPress plugin `gravityforms`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.1000000"
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.2000000"
             },
-            "time": "2021-05-14T15:15:09+00:00"
+            "time": "2021-05-20T15:00:12+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
@@ -665,15 +665,15 @@
         },
         {
             "name": "wpackagist-plugin/limit-login-attempts-reloaded",
-            "version": "2.22.0",
+            "version": "2.22.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/limit-login-attempts-reloaded/",
-                "reference": "tags/2.22.0"
+                "reference": "tags/2.22.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.22.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.22.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
