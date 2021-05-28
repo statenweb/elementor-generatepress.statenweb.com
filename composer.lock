@@ -383,6 +383,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.6000000"
+            },
             "time": "2021-05-22T14:45:05+00:00"
         },
         {
@@ -435,17 +438,17 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.2000000",
+            "version": "2.5.3000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "c235199d6441cae2c00caa3c6638ac2ae9309faa"
+                "reference": "01cf993d9bf2e7cb42d32d9f26a9264ac26d3bc2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-c235199d6441cae2c00caa3c6638ac2ae9309faa-zip-d0c15e.zip",
-                "reference": "c235199d6441cae2c00caa3c6638ac2ae9309faa",
-                "shasum": "1c087476bb0326334607a9eb691a8933a9fb3d88"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-01cf993d9bf2e7cb42d32d9f26a9264ac26d3bc2-zip-cd1106.zip",
+                "reference": "01cf993d9bf2e7cb42d32d9f26a9264ac26d3bc2",
+                "shasum": "b3379fe568ef52374d7b718e096ea57f4f935cd0"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -453,9 +456,9 @@
             ],
             "description": "WordPress plugin `gravityforms`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.2000000"
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.3000000"
             },
-            "time": "2021-05-20T15:00:12+00:00"
+            "time": "2021-05-27T02:45:09+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
@@ -476,6 +479,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `webarx`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.18000000"
+            },
             "time": "2021-05-03T13:07:07+00:00"
         },
         {
@@ -504,16 +510,16 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.22.1",
+            "version": "v1.23.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
-                "reference": "c6c942b1ac76c82448322025e084cadc56048b4e"
+                "reference": "46cd95797e9df938fdd2b03693b5fca5e64b01ce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/c6c942b1ac76c82448322025e084cadc56048b4e",
-                "reference": "c6c942b1ac76c82448322025e084cadc56048b4e",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/46cd95797e9df938fdd2b03693b5fca5e64b01ce",
+                "reference": "46cd95797e9df938fdd2b03693b5fca5e64b01ce",
                 "shasum": ""
             },
             "require": {
@@ -525,7 +531,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.22-dev"
+                    "dev-main": "1.23-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -562,7 +568,7 @@
                 "polyfill",
                 "portable"
             ],
-            "time": "2021-01-07T16:49:33+00:00"
+            "time": "2021-02-19T12:13:01+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -647,15 +653,15 @@
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.2.3",
+            "version": "3.2.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.2.3"
+                "reference": "tags/3.2.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.2.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.2.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -791,15 +797,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-ses",
-            "version": "1.4.5",
+            "version": "1.4.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-ses/",
-                "reference": "tags/1.4.5"
+                "reference": "tags/1.4.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-ses.1.4.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-ses.1.4.6.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
