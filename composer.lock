@@ -383,6 +383,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.6000000"
+            },
             "time": "2021-05-22T14:45:05+00:00"
         },
         {
@@ -435,17 +438,17 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.4000000",
+            "version": "2.5.5100000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "05159593e8024337219d69cac92c3e53c8e5805b"
+                "reference": "70720b02add12847376eb6eb2360814398f6a89b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-05159593e8024337219d69cac92c3e53c8e5805b-zip-e140ce.zip",
-                "reference": "05159593e8024337219d69cac92c3e53c8e5805b",
-                "shasum": "0970dae069f1a10bd5930eb03a6c0aa99a7f2803"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-70720b02add12847376eb6eb2360814398f6a89b-zip-33bf7a.zip",
+                "reference": "70720b02add12847376eb6eb2360814398f6a89b",
+                "shasum": "f32987625d25eb152d755c90fcf790f5957abb16"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -453,30 +456,33 @@
             ],
             "description": "WordPress plugin `gravityforms`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.4000000"
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.5100000"
             },
-            "time": "2021-05-28T14:45:09+00:00"
+            "time": "2021-06-04T02:45:09+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
-            "version": "2.0.18000000",
+            "version": "2.0.19000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-webarx.git",
-                "reference": "8aaccdf3243158a8c70d20e2e3ee3c3dac375219"
+                "reference": "3d9f585f7d9e862fc00d2c9889488f886141b0e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/webarx/statenweb-plugin-webarx-8aaccdf3243158a8c70d20e2e3ee3c3dac375219-zip-ef0c8e.zip",
-                "reference": "8aaccdf3243158a8c70d20e2e3ee3c3dac375219",
-                "shasum": "0897661e0426cce3ed25692f6dc26680115c1e9f"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/webarx/statenweb-plugin-webarx-3d9f585f7d9e862fc00d2c9889488f886141b0e7-zip-d4af9c.zip",
+                "reference": "3d9f585f7d9e862fc00d2c9889488f886141b0e7",
+                "shasum": "52611cfa88bc51827c34f97b14eba2f4b37ef9b7"
             },
             "type": "wordpress-plugin",
             "license": [
                 "GPLv3"
             ],
             "description": "WordPress plugin `webarx`",
-            "time": "2021-05-03T13:07:07+00:00"
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.19000000"
+            },
+            "time": "2021-06-03T14:00:10+00:00"
         },
         {
             "name": "statenweb-plugin/wp-rocket",
