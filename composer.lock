@@ -108,10 +108,10 @@
         },
         {
             "name": "deliciousbrains-plugin/wp-migrate-db-pro",
-            "version": "2.0.2",
+            "version": "2.0.3",
             "dist": {
                 "type": "zip",
-                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.0.2&composer_key=A3E1F7021543E61F2196AADB74515E59"
+                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.0.3&composer_key=A3E1F7021543E61F2196AADB74515E59"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -120,10 +120,10 @@
         },
         {
             "name": "deliciousbrains-plugin/wp-migrate-db-pro-media-files",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "dist": {
                 "type": "zip",
-                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-media-files&version=2.0.1&composer_key=A3E1F7021543E61F2196AADB74515E59"
+                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-media-files&version=2.0.2&composer_key=A3E1F7021543E61F2196AADB74515E59"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -366,17 +366,17 @@
         },
         {
             "name": "statenweb-plugin/advanced-custom-fields-pro",
-            "version": "5.9.6000000",
+            "version": "5.9.7000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-advanced-custom-fields-pro.git",
-                "reference": "9711e2f353522dcfab8d265ec64881910eb84f43"
+                "reference": "b4a4cf10eadf964f4e8f0df2a77078aec6b20d67"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-9711e2f353522dcfab8d265ec64881910eb84f43-zip-431451.zip",
-                "reference": "9711e2f353522dcfab8d265ec64881910eb84f43",
-                "shasum": "cb3ea901857b99f12c67f06c686a360373a4f847"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-b4a4cf10eadf964f4e8f0df2a77078aec6b20d67-zip-e7846b.zip",
+                "reference": "b4a4cf10eadf964f4e8f0df2a77078aec6b20d67",
+                "shasum": "07a61ae465ed54ac96507c3a99e427b030b1d869"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -384,9 +384,9 @@
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.6000000"
+                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.7000000"
             },
-            "time": "2021-05-22T14:45:05+00:00"
+            "time": "2021-06-23T14:45:05+00:00"
         },
         {
             "name": "statenweb-plugin/elementor-pro",
@@ -438,17 +438,17 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.5100000",
+            "version": "2.5.6000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "70720b02add12847376eb6eb2360814398f6a89b"
+                "reference": "7f4ac4f0fa35c2182cd0bd8420d8b46351bc9d84"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-70720b02add12847376eb6eb2360814398f6a89b-zip-33bf7a.zip",
-                "reference": "70720b02add12847376eb6eb2360814398f6a89b",
-                "shasum": "f32987625d25eb152d755c90fcf790f5957abb16"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-7f4ac4f0fa35c2182cd0bd8420d8b46351bc9d84-zip-5c98a9.zip",
+                "reference": "7f4ac4f0fa35c2182cd0bd8420d8b46351bc9d84",
+                "shasum": "63c05dac2c00d441a3b8f1d307b2aa2c27e91112"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -456,9 +456,9 @@
             ],
             "description": "WordPress plugin `gravityforms`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.5100000"
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.6000000"
             },
-            "time": "2021-06-04T02:45:09+00:00"
+            "time": "2021-06-23T15:00:10+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
