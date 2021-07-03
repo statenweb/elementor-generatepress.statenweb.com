@@ -108,10 +108,10 @@
         },
         {
             "name": "deliciousbrains-plugin/wp-migrate-db-pro",
-            "version": "2.0.3",
+            "version": "2.0.4",
             "dist": {
                 "type": "zip",
-                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.0.3&composer_key=A3E1F7021543E61F2196AADB74515E59"
+                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.0.4&composer_key=A3E1F7021543E61F2196AADB74515E59"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -383,24 +383,21 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.7000000"
-            },
             "time": "2021-06-23T14:45:05+00:00"
         },
         {
             "name": "statenweb-plugin/elementor-pro",
-            "version": "3.2.1000000",
+            "version": "3.3.1000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-elementor-pro.git",
-                "reference": "726fecc957148e8d8e8a5a2d10994ed6836a1212"
+                "reference": "73c517e55e57c56f79d73ec7b303af3d6084c52d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/elementor-pro/statenweb-plugin-elementor-pro-726fecc957148e8d8e8a5a2d10994ed6836a1212-zip-7b0067.zip",
-                "reference": "726fecc957148e8d8e8a5a2d10994ed6836a1212",
-                "shasum": "3aedd737c329e55de0e9641842684b8e7ff49ca9"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/elementor-pro/statenweb-plugin-elementor-pro-73c517e55e57c56f79d73ec7b303af3d6084c52d-zip-080171.zip",
+                "reference": "73c517e55e57c56f79d73ec7b303af3d6084c52d",
+                "shasum": "b05f60b6b184ec5ea4fd72d271d8c2a6bb712acf"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -408,9 +405,9 @@
             ],
             "description": "WordPress plugin `elementor-pro`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.2.1000000"
+                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.3.1000000"
             },
-            "time": "2021-03-27T02:30:06+00:00"
+            "time": "2021-06-30T20:45:05+00:00"
         },
         {
             "name": "statenweb-plugin/google-analytics-premium",
@@ -462,41 +459,38 @@
         },
         {
             "name": "statenweb-plugin/webarx",
-            "version": "2.0.19000000",
+            "version": "2.0.20000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-webarx.git",
-                "reference": "3d9f585f7d9e862fc00d2c9889488f886141b0e7"
+                "reference": "753e75d0097b2520888f3f75f4276587423ea5f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/webarx/statenweb-plugin-webarx-3d9f585f7d9e862fc00d2c9889488f886141b0e7-zip-d4af9c.zip",
-                "reference": "3d9f585f7d9e862fc00d2c9889488f886141b0e7",
-                "shasum": "52611cfa88bc51827c34f97b14eba2f4b37ef9b7"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/webarx/statenweb-plugin-webarx-753e75d0097b2520888f3f75f4276587423ea5f6-zip-4f94ab.zip",
+                "reference": "753e75d0097b2520888f3f75f4276587423ea5f6",
+                "shasum": "45a753791965b87e365298bd57b842d5620cccc6"
             },
             "type": "wordpress-plugin",
             "license": [
                 "GPLv3"
             ],
             "description": "WordPress plugin `webarx`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.19000000"
-            },
-            "time": "2021-06-03T14:00:10+00:00"
+            "time": "2021-06-30T21:35:07+00:00"
         },
         {
             "name": "statenweb-plugin/wp-rocket",
-            "version": "3.8.8000000",
+            "version": "3.9.0400000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-wp-rocket.git",
-                "reference": "f8349b450ae672999f02d43c982f41a95575a89e"
+                "reference": "8b36a6b7bb0fc215fed0f9a58b37338011855513"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/wp-rocket/statenweb-plugin-wp-rocket-f8349b450ae672999f02d43c982f41a95575a89e-zip-93d044.zip",
-                "reference": "f8349b450ae672999f02d43c982f41a95575a89e",
-                "shasum": "61b311f32f898766da09ba650041a36082e5d5bc"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/wp-rocket/statenweb-plugin-wp-rocket-8b36a6b7bb0fc215fed0f9a58b37338011855513-zip-a30a12.zip",
+                "reference": "8b36a6b7bb0fc215fed0f9a58b37338011855513",
+                "shasum": "5c93e7b7f7cf4a6298d0b008e9c42c850650c81e"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -504,9 +498,9 @@
             ],
             "description": "WordPress plugin `wp-rocket`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-wp-rocket/tree/3.8.8000000"
+                "source": "https://github.com/statenweb/wordress-plugin-wp-rocket/tree/3.9.0400000"
             },
-            "time": "2021-04-26T11:42:34+00:00"
+            "time": "2021-06-30T22:00:07+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -779,15 +773,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "16.6",
+            "version": "16.6.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/16.6"
+                "reference": "tags/16.6.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.6.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
