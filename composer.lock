@@ -366,24 +366,27 @@
         },
         {
             "name": "statenweb-plugin/advanced-custom-fields-pro",
-            "version": "5.9.7000000",
+            "version": "5.9.8000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-advanced-custom-fields-pro.git",
-                "reference": "b4a4cf10eadf964f4e8f0df2a77078aec6b20d67"
+                "reference": "b6e99ac4aeed9ad6019172fd7470d48d4331793c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-b4a4cf10eadf964f4e8f0df2a77078aec6b20d67-zip-e7846b.zip",
-                "reference": "b4a4cf10eadf964f4e8f0df2a77078aec6b20d67",
-                "shasum": "07a61ae465ed54ac96507c3a99e427b030b1d869"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-b6e99ac4aeed9ad6019172fd7470d48d4331793c-zip-87ac2f.zip",
+                "reference": "b6e99ac4aeed9ad6019172fd7470d48d4331793c",
+                "shasum": "0e68dc3bd1657afda11e847147ec0bea20eb0632"
             },
             "type": "wordpress-plugin",
             "license": [
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
-            "time": "2021-06-23T14:45:05+00:00"
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.8000000"
+            },
+            "time": "2021-07-09T14:45:04+00:00"
         },
         {
             "name": "statenweb-plugin/elementor-pro",
@@ -476,6 +479,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `webarx`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.20000000"
+            },
             "time": "2021-06-30T21:35:07+00:00"
         },
         {
@@ -647,15 +653,15 @@
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.2.5",
+            "version": "3.3.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.2.5"
+                "reference": "tags/3.3.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.2.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.3.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -773,15 +779,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "16.6.1",
+            "version": "16.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/16.6.1"
+                "reference": "tags/16.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.6.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -827,15 +833,15 @@
         },
         {
             "name": "wpackagist-theme/generatepress",
-            "version": "3.0.3",
+            "version": "3.0.4",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/generatepress/",
-                "reference": "3.0.3"
+                "reference": "3.0.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/generatepress.3.0.3.zip"
+                "url": "https://downloads.wordpress.org/theme/generatepress.3.0.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
