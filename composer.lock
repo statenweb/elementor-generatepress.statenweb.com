@@ -230,16 +230,16 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "5.7.2",
+            "version": "5.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "5.7.2"
+                "reference": "5.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/refs/tags/5.7.2",
-                "reference": "5.7.2"
+                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/refs/tags/5.8",
+                "reference": "5.8"
             },
             "require": {
                 "php": ">=5.3.2",
@@ -263,7 +263,7 @@
                 "cms",
                 "wordpress"
             ],
-            "time": "2021-05-12T23:52:01+00:00"
+            "time": "2021-07-20T16:24:55+00:00"
         },
         {
             "name": "roots/wordpress-core-installer",
@@ -414,17 +414,17 @@
         },
         {
             "name": "statenweb-plugin/google-analytics-premium",
-            "version": "7.17.0000000",
+            "version": "7.18.0000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-google-analytics-premium.git",
-                "reference": "f1492a595a83e9b2c73ea302ec69b591dc50060e"
+                "reference": "b0a5b73592391e1bf1508fb32a18c4e596895d08"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/google-analytics-premium/statenweb-plugin-google-analytics-premium-f1492a595a83e9b2c73ea302ec69b591dc50060e-zip-f5f790.zip",
-                "reference": "f1492a595a83e9b2c73ea302ec69b591dc50060e",
-                "shasum": "372e828ed49452d19db056a32ecd6543e17b6e01"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/google-analytics-premium/statenweb-plugin-google-analytics-premium-b0a5b73592391e1bf1508fb32a18c4e596895d08-zip-691f6d.zip",
+                "reference": "b0a5b73592391e1bf1508fb32a18c4e596895d08",
+                "shasum": "adec6fb6158269feaed55e78809f3badd722a87e"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -432,9 +432,9 @@
             ],
             "description": "WordPress plugin `google-analytics-premium`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-google-analytics-premium/tree/7.17.0000000"
+                "source": "https://github.com/statenweb/wordress-plugin-google-analytics-premium/tree/7.18.0000000"
             },
-            "time": "2021-03-23T15:00:10+00:00"
+            "time": "2021-07-15T15:15:09+00:00"
         },
         {
             "name": "statenweb-plugin/gravityforms",
@@ -653,15 +653,15 @@
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.3.0",
+            "version": "3.3.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.3.0"
+                "reference": "tags/3.3.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.3.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.3.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -671,15 +671,15 @@
         },
         {
             "name": "wpackagist-plugin/limit-login-attempts-reloaded",
-            "version": "2.22.1",
+            "version": "2.23.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/limit-login-attempts-reloaded/",
-                "reference": "tags/2.22.1"
+                "reference": "tags/2.23.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.22.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.23.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
