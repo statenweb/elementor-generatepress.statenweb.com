@@ -366,27 +366,24 @@
         },
         {
             "name": "statenweb-plugin/advanced-custom-fields-pro",
-            "version": "5.9.8000000",
+            "version": "5.9.9000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-advanced-custom-fields-pro.git",
-                "reference": "b6e99ac4aeed9ad6019172fd7470d48d4331793c"
+                "reference": "711e992cfaf86166c321711bd1bb4aa5244d2e92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-b6e99ac4aeed9ad6019172fd7470d48d4331793c-zip-87ac2f.zip",
-                "reference": "b6e99ac4aeed9ad6019172fd7470d48d4331793c",
-                "shasum": "0e68dc3bd1657afda11e847147ec0bea20eb0632"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-711e992cfaf86166c321711bd1bb4aa5244d2e92-zip-51042b.zip",
+                "reference": "711e992cfaf86166c321711bd1bb4aa5244d2e92",
+                "shasum": "c1660d583d465789958e132b800a1073e6ef967c"
             },
             "type": "wordpress-plugin",
             "license": [
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.8000000"
-            },
-            "time": "2021-07-09T14:45:04+00:00"
+            "time": "2021-07-21T02:45:05+00:00"
         },
         {
             "name": "statenweb-plugin/elementor-pro",
@@ -407,9 +404,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `elementor-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.3.1000000"
-            },
             "time": "2021-06-30T20:45:05+00:00"
         },
         {
@@ -431,9 +425,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `google-analytics-premium`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-google-analytics-premium/tree/7.18.0000000"
-            },
             "time": "2021-07-15T15:15:09+00:00"
         },
         {
@@ -455,9 +446,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `gravityforms`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.7000000"
-            },
             "time": "2021-07-08T03:00:09+00:00"
         },
         {
@@ -479,34 +467,28 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `webarx`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.20000000"
-            },
             "time": "2021-06-30T21:35:07+00:00"
         },
         {
             "name": "statenweb-plugin/wp-rocket",
-            "version": "3.9.0400000",
+            "version": "3.9.0500000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-wp-rocket.git",
-                "reference": "8b36a6b7bb0fc215fed0f9a58b37338011855513"
+                "reference": "d1bb775896b69ad4c8af2a2530c35b75a681b894"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/wp-rocket/statenweb-plugin-wp-rocket-8b36a6b7bb0fc215fed0f9a58b37338011855513-zip-a30a12.zip",
-                "reference": "8b36a6b7bb0fc215fed0f9a58b37338011855513",
-                "shasum": "5c93e7b7f7cf4a6298d0b008e9c42c850650c81e"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/wp-rocket/statenweb-plugin-wp-rocket-d1bb775896b69ad4c8af2a2530c35b75a681b894-zip-f71cad.zip",
+                "reference": "d1bb775896b69ad4c8af2a2530c35b75a681b894",
+                "shasum": "5b713cdebb04cbb6962cfbd84ab7c88f58e3cf04"
             },
             "type": "wordpress-plugin",
             "license": [
                 "GPLv3"
             ],
             "description": "WordPress plugin `wp-rocket`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-wp-rocket/tree/3.9.0400000"
-            },
-            "time": "2021-06-30T22:00:07+00:00"
+            "time": "2021-07-22T02:00:22+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -635,15 +617,15 @@
         },
         {
             "name": "wpackagist-plugin/autoptimize",
-            "version": "2.8.4",
+            "version": "2.9.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/autoptimize/",
-                "reference": "tags/2.8.4"
+                "reference": "tags/2.9.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/autoptimize.2.8.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/autoptimize.2.9.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -779,15 +761,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "16.7",
+            "version": "16.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/16.7"
+                "reference": "tags/16.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.8.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
