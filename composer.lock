@@ -429,24 +429,24 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.7000000",
+            "version": "2.5.8000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "4a7df08b597d91f00e5fdcea91a9063d91b8898f"
+                "reference": "0d6c88dd32d35c9516741827bd40089a12d5f88d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-4a7df08b597d91f00e5fdcea91a9063d91b8898f-zip-f7701a.zip",
-                "reference": "4a7df08b597d91f00e5fdcea91a9063d91b8898f",
-                "shasum": "53fea440512fec76d80df9099fe72ba7b8c7215f"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-0d6c88dd32d35c9516741827bd40089a12d5f88d-zip-a01f73.zip",
+                "reference": "0d6c88dd32d35c9516741827bd40089a12d5f88d",
+                "shasum": "739a1fc8189ea79f5770a02dd885c08d2a75753f"
             },
             "type": "wordpress-plugin",
             "license": [
                 "GPLv3"
             ],
             "description": "WordPress plugin `gravityforms`",
-            "time": "2021-07-08T03:00:09+00:00"
+            "time": "2021-07-29T15:17:10+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
@@ -653,15 +653,15 @@
         },
         {
             "name": "wpackagist-plugin/limit-login-attempts-reloaded",
-            "version": "2.23.0",
+            "version": "2.23.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/limit-login-attempts-reloaded/",
-                "reference": "tags/2.23.0"
+                "reference": "tags/2.23.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.23.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.23.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -707,15 +707,15 @@
         },
         {
             "name": "wpackagist-plugin/shortpixel-image-optimiser",
-            "version": "4.22.2",
+            "version": "4.22.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/shortpixel-image-optimiser/",
-                "reference": "tags/4.22.2"
+                "reference": "tags/4.22.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.22.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.22.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
