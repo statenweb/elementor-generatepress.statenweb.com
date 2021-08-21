@@ -108,10 +108,10 @@
         },
         {
             "name": "deliciousbrains-plugin/wp-migrate-db-pro",
-            "version": "2.1",
+            "version": "2.1.1",
             "dist": {
                 "type": "zip",
-                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.1&composer_key=A3E1F7021543E61F2196AADB74515E59"
+                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.1.1&composer_key=A3E1F7021543E61F2196AADB74515E59"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -383,9 +383,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.9.9000000"
-            },
             "time": "2021-07-21T02:45:05+00:00"
         },
         {
@@ -407,9 +404,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `elementor-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.3.1000000"
-            },
             "time": "2021-06-30T20:45:05+00:00"
         },
         {
@@ -431,34 +425,28 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `google-analytics-premium`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-google-analytics-premium/tree/7.18.0000000"
-            },
             "time": "2021-07-15T15:15:09+00:00"
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.8000000",
+            "version": "2.5.9000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "0d6c88dd32d35c9516741827bd40089a12d5f88d"
+                "reference": "dbb2fdbcbcd1abc030d29780a9a91eb756a04ea6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-0d6c88dd32d35c9516741827bd40089a12d5f88d-zip-a01f73.zip",
-                "reference": "0d6c88dd32d35c9516741827bd40089a12d5f88d",
-                "shasum": "739a1fc8189ea79f5770a02dd885c08d2a75753f"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-dbb2fdbcbcd1abc030d29780a9a91eb756a04ea6-zip-695575.zip",
+                "reference": "dbb2fdbcbcd1abc030d29780a9a91eb756a04ea6",
+                "shasum": "2b095c012fb88e0ae4b001042866db74c659a60a"
             },
             "type": "wordpress-plugin",
             "license": [
                 "GPLv3"
             ],
             "description": "WordPress plugin `gravityforms`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.8000000"
-            },
-            "time": "2021-07-29T15:17:10+00:00"
+            "time": "2021-08-12T15:21:11+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
@@ -479,9 +467,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `webarx`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.20000000"
-            },
             "time": "2021-06-30T21:35:07+00:00"
         },
         {
@@ -503,9 +488,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `wp-rocket`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-wp-rocket/tree/3.9.0500000"
-            },
             "time": "2021-07-22T02:00:22+00:00"
         },
         {
@@ -635,15 +617,15 @@
         },
         {
             "name": "wpackagist-plugin/autoptimize",
-            "version": "2.9.0",
+            "version": "2.9.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/autoptimize/",
-                "reference": "tags/2.9.0"
+                "reference": "tags/2.9.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/autoptimize.2.9.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/autoptimize.2.9.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -653,15 +635,15 @@
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.3.1",
+            "version": "3.4.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.3.1"
+                "reference": "tags/3.4.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.3.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.4.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -779,15 +761,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "16.8",
+            "version": "16.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/16.8"
+                "reference": "tags/16.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.9.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
