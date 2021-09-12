@@ -230,16 +230,16 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "5.8",
+            "version": "5.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "5.8"
+                "reference": "5.8.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/refs/tags/5.8",
-                "reference": "5.8"
+                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/refs/tags/5.8.1",
+                "reference": "5.8.1"
             },
             "require": {
                 "php": ">=5.3.2",
@@ -263,7 +263,7 @@
                 "cms",
                 "wordpress"
             ],
-            "time": "2021-07-20T16:24:55+00:00"
+            "time": "2021-09-09T02:22:02+00:00"
         },
         {
             "name": "roots/wordpress-core-installer",
@@ -383,6 +383,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.10.2000000"
+            },
             "time": "2021-09-02T13:18:06+00:00"
         },
         {
@@ -467,6 +470,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `webarx`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-webarx/tree/2.0.20000000"
+            },
             "time": "2021-06-30T21:35:07+00:00"
         },
         {
