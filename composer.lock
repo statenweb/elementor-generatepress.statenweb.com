@@ -407,6 +407,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `elementor-pro`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.3.1000000"
+            },
             "time": "2021-06-30T20:45:05+00:00"
         },
         {
@@ -428,28 +431,34 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `google-analytics-premium`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-google-analytics-premium/tree/7.18.0000000"
+            },
             "time": "2021-07-15T15:15:09+00:00"
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.9000000",
+            "version": "2.5.10000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "dbb2fdbcbcd1abc030d29780a9a91eb756a04ea6"
+                "reference": "5fb326ce7b4e4cf59e142e1219a1dba08a1f0edd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-dbb2fdbcbcd1abc030d29780a9a91eb756a04ea6-zip-695575.zip",
-                "reference": "dbb2fdbcbcd1abc030d29780a9a91eb756a04ea6",
-                "shasum": "2b095c012fb88e0ae4b001042866db74c659a60a"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-5fb326ce7b4e4cf59e142e1219a1dba08a1f0edd-zip-91f061.zip",
+                "reference": "5fb326ce7b4e4cf59e142e1219a1dba08a1f0edd",
+                "shasum": "e217b1a9aa4c06d58d70a1bdb4863399c2d11f6f"
             },
             "type": "wordpress-plugin",
             "license": [
                 "GPLv3"
             ],
             "description": "WordPress plugin `gravityforms`",
-            "time": "2021-08-12T15:21:11+00:00"
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.10000000"
+            },
+            "time": "2021-09-09T02:40:10+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
@@ -494,6 +503,9 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `wp-rocket`",
+            "support": {
+                "source": "https://github.com/statenweb/wordress-plugin-wp-rocket/tree/3.9.0500000"
+            },
             "time": "2021-07-22T02:00:22+00:00"
         },
         {
@@ -749,15 +761,15 @@
         },
         {
             "name": "wpackagist-plugin/stream",
-            "version": "3.8.0",
+            "version": "3.8.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/stream/",
-                "reference": "tags/3.8.0"
+                "reference": "tags/3.8.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/stream.3.8.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/stream.3.8.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0 || ~2.0"
