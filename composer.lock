@@ -390,17 +390,17 @@
         },
         {
             "name": "statenweb-plugin/elementor-pro",
-            "version": "3.3.1000000",
+            "version": "3.4.1000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-elementor-pro.git",
-                "reference": "73c517e55e57c56f79d73ec7b303af3d6084c52d"
+                "reference": "f83cc8424a450b450c412679eefac4061233e06d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/elementor-pro/statenweb-plugin-elementor-pro-73c517e55e57c56f79d73ec7b303af3d6084c52d-zip-080171.zip",
-                "reference": "73c517e55e57c56f79d73ec7b303af3d6084c52d",
-                "shasum": "b05f60b6b184ec5ea4fd72d271d8c2a6bb712acf"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/elementor-pro/statenweb-plugin-elementor-pro-f83cc8424a450b450c412679eefac4061233e06d-zip-7bf370.zip",
+                "reference": "f83cc8424a450b450c412679eefac4061233e06d",
+                "shasum": "41b365c76e097f86930a6999ac3f2e0876a1ece1"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -408,9 +408,9 @@
             ],
             "description": "WordPress plugin `elementor-pro`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.3.1000000"
+                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.4.1000000"
             },
-            "time": "2021-06-30T20:45:05+00:00"
+            "time": "2021-09-28T20:19:09+00:00"
         },
         {
             "name": "statenweb-plugin/google-analytics-premium",
@@ -438,17 +438,17 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.10000000",
+            "version": "2.5.12000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "5fb326ce7b4e4cf59e142e1219a1dba08a1f0edd"
+                "reference": "d33392ff4f58f16fd2fc856a31a5c00ba97c0ecd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-5fb326ce7b4e4cf59e142e1219a1dba08a1f0edd-zip-91f061.zip",
-                "reference": "5fb326ce7b4e4cf59e142e1219a1dba08a1f0edd",
-                "shasum": "e217b1a9aa4c06d58d70a1bdb4863399c2d11f6f"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-d33392ff4f58f16fd2fc856a31a5c00ba97c0ecd-zip-cb2170.zip",
+                "reference": "d33392ff4f58f16fd2fc856a31a5c00ba97c0ecd",
+                "shasum": "cb1d86c515734617f2415a33d9fd46fecdd2630d"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -456,9 +456,9 @@
             ],
             "description": "WordPress plugin `gravityforms`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.10000000"
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.12000000"
             },
-            "time": "2021-09-09T02:40:10+00:00"
+            "time": "2021-10-02T03:16:09+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
@@ -572,16 +572,16 @@
         },
         {
             "name": "vlucas/phpdotenv",
-            "version": "v3.6.8",
+            "version": "v3.6.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/phpdotenv.git",
-                "reference": "5e679f7616db829358341e2d5cccbd18773bdab8"
+                "reference": "a1bf4c9853d90ade427b4efe35355fc41b3d6988"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/5e679f7616db829358341e2d5cccbd18773bdab8",
-                "reference": "5e679f7616db829358341e2d5cccbd18773bdab8",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/a1bf4c9853d90ade427b4efe35355fc41b3d6988",
+                "reference": "a1bf4c9853d90ade427b4efe35355fc41b3d6988",
                 "shasum": ""
             },
             "require": {
@@ -592,7 +592,7 @@
             "require-dev": {
                 "ext-filter": "*",
                 "ext-pcre": "*",
-                "phpunit/phpunit": "^4.8.36 || ^5.7.27 || ^6.5.14 || ^7.5.20"
+                "phpunit/phpunit": "^4.8.36 || ^5.7.27 || ^6.5.14 || ^7.5.20 || ^8.5.21"
             },
             "suggest": {
                 "ext-filter": "Required to use the boolean validator.",
@@ -616,13 +616,11 @@
             "authors": [
                 {
                     "name": "Graham Campbell",
-                    "email": "graham@alt-three.com",
-                    "homepage": "https://gjcampbell.co.uk/"
+                    "email": "hello@gjcampbell.co.uk"
                 },
                 {
                     "name": "Vance Lucas",
-                    "email": "vance@vancelucas.com",
-                    "homepage": "https://vancelucas.com/"
+                    "email": "vance@vancelucas.com"
                 }
             ],
             "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
@@ -631,7 +629,7 @@
                 "env",
                 "environment"
             ],
-            "time": "2021-01-20T14:39:46+00:00"
+            "time": "2021-10-02T19:07:56+00:00"
         },
         {
             "name": "wpackagist-plugin/autoptimize",
@@ -671,15 +669,15 @@
         },
         {
             "name": "wpackagist-plugin/limit-login-attempts-reloaded",
-            "version": "2.23.1",
+            "version": "2.23.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/limit-login-attempts-reloaded/",
-                "reference": "tags/2.23.1"
+                "reference": "tags/2.23.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.23.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.23.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0 || ~2.0"
