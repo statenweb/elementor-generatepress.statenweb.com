@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f7bf80da12b0ab8009e83a5194e6bbdf",
+    "content-hash": "0f9ac16c2e93677a48cf055162fe69bd",
     "packages": [
         {
             "name": "composer/installers",
@@ -226,6 +226,16 @@
                 "php",
                 "type"
             ],
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/phpoption/phpoption",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2021-08-28T21:27:29+00:00"
         },
         {
@@ -262,6 +272,16 @@
                 "blog",
                 "cms",
                 "wordpress"
+            ],
+            "funding": [
+                {
+                    "url": "https://github.com/roots",
+                    "type": "github"
+                },
+                {
+                    "url": "https://www.patreon.com/rootsdev",
+                    "type": "patreon"
+                }
             ],
             "time": "2021-09-09T02:22:02+00:00"
         },
@@ -319,6 +339,16 @@
             "description": "A custom installer to handle deploying WordPress with composer",
             "keywords": [
                 "wordpress"
+            ],
+            "funding": [
+                {
+                    "url": "https://github.com/roots",
+                    "type": "github"
+                },
+                {
+                    "url": "https://www.patreon.com/rootsdev",
+                    "type": "patreon"
+                }
             ],
             "time": "2020-08-20T00:27:30+00:00"
         },
@@ -568,6 +598,20 @@
                 "polyfill",
                 "portable"
             ],
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2021-02-19T12:13:01+00:00"
         },
         {
@@ -629,6 +673,16 @@
                 "env",
                 "environment"
             ],
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/vlucas/phpdotenv",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2021-10-02T19:07:56+00:00"
         },
         {
@@ -651,15 +705,15 @@
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.4.4",
+            "version": "3.4.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.4.4"
+                "reference": "tags/3.4.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.4.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.4.5.zip"
             },
             "require": {
                 "composer/installers": "~1.0 || ~2.0"
@@ -777,15 +831,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "16.9",
+            "version": "17.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/16.9"
+                "reference": "tags/17.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.16.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0 || ~2.0"
@@ -936,5 +990,6 @@
     "platform": {
         "php": ">=5.6"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }

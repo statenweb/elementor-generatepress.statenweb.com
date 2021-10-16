@@ -65,7 +65,7 @@
     "wpackagist-plugin/autoptimize": "^2.7",
     "wpackagist-plugin/safe-svg": "^1.9",
     "wpackagist-plugin/wp-ses": "^1.4",
-    "wpackagist-plugin/wordpress-seo": "16.*",
+    "wpackagist-plugin/wordpress-seo": "*",
     "statenweb-plugin/gravityforms": "^2.4",
     "wpackagist-plugin/elementor": "^3.1",
     "wpackagist-theme/generatepress": "^3.0",
