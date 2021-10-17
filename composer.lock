@@ -226,16 +226,6 @@
                 "php",
                 "type"
             ],
-            "funding": [
-                {
-                    "url": "https://github.com/GrahamCampbell",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/phpoption/phpoption",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-08-28T21:27:29+00:00"
         },
         {
@@ -272,16 +262,6 @@
                 "blog",
                 "cms",
                 "wordpress"
-            ],
-            "funding": [
-                {
-                    "url": "https://github.com/roots",
-                    "type": "github"
-                },
-                {
-                    "url": "https://www.patreon.com/rootsdev",
-                    "type": "patreon"
-                }
             ],
             "time": "2021-09-09T02:22:02+00:00"
         },
@@ -339,16 +319,6 @@
             "description": "A custom installer to handle deploying WordPress with composer",
             "keywords": [
                 "wordpress"
-            ],
-            "funding": [
-                {
-                    "url": "https://github.com/roots",
-                    "type": "github"
-                },
-                {
-                    "url": "https://www.patreon.com/rootsdev",
-                    "type": "patreon"
-                }
             ],
             "time": "2020-08-20T00:27:30+00:00"
         },
@@ -437,9 +407,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `elementor-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.4.1000000"
-            },
             "time": "2021-09-28T20:19:09+00:00"
         },
         {
@@ -485,9 +452,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `gravityforms`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.12000000"
-            },
             "time": "2021-10-02T03:16:09+00:00"
         },
         {
@@ -533,9 +497,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `wp-rocket`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-wp-rocket/tree/3.9.0500000"
-            },
             "time": "2021-07-22T02:00:22+00:00"
         },
         {
@@ -598,20 +559,6 @@
                 "polyfill",
                 "portable"
             ],
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-02-19T12:13:01+00:00"
         },
         {
@@ -672,16 +619,6 @@
                 "dotenv",
                 "env",
                 "environment"
-            ],
-            "funding": [
-                {
-                    "url": "https://github.com/GrahamCampbell",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/vlucas/phpdotenv",
-                    "type": "tidelift"
-                }
             ],
             "time": "2021-10-02T19:07:56+00:00"
         },
@@ -990,6 +927,5 @@
     "platform": {
         "php": ">=5.6"
     },
-    "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "platform-dev": []
 }
