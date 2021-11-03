@@ -651,15 +651,15 @@
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.4.6",
+            "version": "3.4.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.4.6"
+                "reference": "tags/3.4.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.4.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.4.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0 || ~2.0"
@@ -777,15 +777,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "17.4",
+            "version": "17.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/17.4"
+                "reference": "tags/17.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.5.zip"
             },
             "require": {
                 "composer/installers": "~1.0 || ~2.0"
