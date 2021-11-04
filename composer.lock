@@ -407,9 +407,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `elementor-pro`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.4.1000000"
-            },
             "time": "2021-09-28T20:19:09+00:00"
         },
         {
@@ -431,9 +428,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `google-analytics-premium`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-google-analytics-premium/tree/7.18.0000000"
-            },
             "time": "2021-07-15T15:15:09+00:00"
         },
         {
@@ -455,9 +449,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `gravityforms`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.14000000"
-            },
             "time": "2021-10-22T14:49:10+00:00"
         },
         {
@@ -503,9 +494,6 @@
                 "GPLv3"
             ],
             "description": "WordPress plugin `wp-rocket`",
-            "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-wp-rocket/tree/3.9.0500000"
-            },
             "time": "2021-07-22T02:00:22+00:00"
         },
         {
