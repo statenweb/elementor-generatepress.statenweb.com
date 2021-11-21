@@ -369,17 +369,17 @@
         },
         {
             "name": "statenweb-plugin/advanced-custom-fields-pro",
-            "version": "5.11.0",
+            "version": "5.11.1000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-advanced-custom-fields-pro.git",
-                "reference": "677262b8fdff0bfcfc71028f5cf7a95d1789cd93"
+                "reference": "d8c921364204063433b7c5a2dfc9d09fc058248d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-677262b8fdff0bfcfc71028f5cf7a95d1789cd93-zip-111380.zip",
-                "reference": "677262b8fdff0bfcfc71028f5cf7a95d1789cd93",
-                "shasum": "05008f79645861d5c15292cdafc89279ab46c5db"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-d8c921364204063433b7c5a2dfc9d09fc058248d-zip-aca95e.zip",
+                "reference": "d8c921364204063433b7c5a2dfc9d09fc058248d",
+                "shasum": "a5b8b44067993f04b146a019f8a4e776b8beba37"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -387,9 +387,9 @@
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.11.0"
+                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.11.1000000"
             },
-            "time": "2021-11-11T03:16:07+00:00"
+            "time": "2021-11-19T03:15:07+00:00"
         },
         {
             "name": "statenweb-plugin/elementor-pro",
@@ -441,17 +441,17 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.14000000",
+            "version": "2.5.15000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "bd6fec431aec46141efa11120ec5789bbf57b6e6"
+                "reference": "7127e18e7cd4198d0aee2bf7036bc04e770bfdcc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-bd6fec431aec46141efa11120ec5789bbf57b6e6-zip-08876c.zip",
-                "reference": "bd6fec431aec46141efa11120ec5789bbf57b6e6",
-                "shasum": "2391255356b482b9bedf6c52ec1f50952640c7b6"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-7127e18e7cd4198d0aee2bf7036bc04e770bfdcc-zip-49cd20.zip",
+                "reference": "7127e18e7cd4198d0aee2bf7036bc04e770bfdcc",
+                "shasum": "f4045b38090d3d3c77ef79bdfe913e7dea13e868"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -459,9 +459,9 @@
             ],
             "description": "WordPress plugin `gravityforms`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.14000000"
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.15000000"
             },
-            "time": "2021-10-22T14:49:10+00:00"
+            "time": "2021-11-18T02:59:10+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
@@ -647,25 +647,25 @@
                 "url": "https://downloads.wordpress.org/plugin/autoptimize.2.9.2.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/autoptimize/"
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.4.7",
+            "version": "3.4.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.4.7"
+                "reference": "tags/3.4.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.4.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.4.8.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/elementor/"
@@ -683,7 +683,7 @@
                 "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.23.2.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/limit-login-attempts-reloaded/"
@@ -701,7 +701,7 @@
                 "url": "https://downloads.wordpress.org/plugin/regenerate-thumbnails.3.1.5.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/"
@@ -719,7 +719,7 @@
                 "url": "https://downloads.wordpress.org/plugin/safe-svg.1.9.9.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/safe-svg/"
@@ -737,7 +737,7 @@
                 "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.22.6.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/shortpixel-image-optimiser/"
@@ -755,7 +755,7 @@
                 "url": "https://downloads.wordpress.org/plugin/spinupwp.1.3.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/spinupwp/"
@@ -773,25 +773,25 @@
                 "url": "https://downloads.wordpress.org/plugin/stream.3.8.2.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/stream/"
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "17.5",
+            "version": "17.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/17.5"
+                "reference": "tags/17.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.6.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wordpress-seo/"
@@ -809,7 +809,7 @@
                 "url": "https://downloads.wordpress.org/plugin/wp-ses.1.4.6.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-ses/"
@@ -827,7 +827,7 @@
                 "url": "https://downloads.wordpress.org/plugin/wp-updates-notifier.zip?timestamp=1581693159"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-updates-notifier/"
@@ -845,7 +845,7 @@
                 "url": "https://downloads.wordpress.org/theme/generatepress.3.1.0.zip"
             },
             "require": {
-                "composer/installers": "~1.0 || ~2.0"
+                "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/generatepress/"
