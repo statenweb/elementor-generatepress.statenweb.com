@@ -393,17 +393,17 @@
         },
         {
             "name": "statenweb-plugin/elementor-pro",
-            "version": "3.4.1000000",
+            "version": "3.5.1000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-elementor-pro.git",
-                "reference": "f83cc8424a450b450c412679eefac4061233e06d"
+                "reference": "b6361bc3ab020297203f40e78bc54da1f3ff26b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/elementor-pro/statenweb-plugin-elementor-pro-f83cc8424a450b450c412679eefac4061233e06d-zip-7bf370.zip",
-                "reference": "f83cc8424a450b450c412679eefac4061233e06d",
-                "shasum": "41b365c76e097f86930a6999ac3f2e0876a1ece1"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/elementor-pro/statenweb-plugin-elementor-pro-b6361bc3ab020297203f40e78bc54da1f3ff26b3-zip-d4916b.zip",
+                "reference": "b6361bc3ab020297203f40e78bc54da1f3ff26b3",
+                "shasum": "dcfce412ec851750af117110826a0eb22209f746"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -411,9 +411,9 @@
             ],
             "description": "WordPress plugin `elementor-pro`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.4.1000000"
+                "source": "https://github.com/statenweb/wordress-plugin-elementor-pro/tree/3.5.1000000"
             },
-            "time": "2021-09-28T20:19:09+00:00"
+            "time": "2021-11-22T18:34:11+00:00"
         },
         {
             "name": "statenweb-plugin/google-analytics-premium",
@@ -489,17 +489,17 @@
         },
         {
             "name": "statenweb-plugin/wp-rocket",
-            "version": "3.9.0500000",
+            "version": "3.10.3000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-wp-rocket.git",
-                "reference": "d1bb775896b69ad4c8af2a2530c35b75a681b894"
+                "reference": "90e369bcccbf9be672f3868a350dbd5ce6f1916a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/wp-rocket/statenweb-plugin-wp-rocket-d1bb775896b69ad4c8af2a2530c35b75a681b894-zip-f71cad.zip",
-                "reference": "d1bb775896b69ad4c8af2a2530c35b75a681b894",
-                "shasum": "5b713cdebb04cbb6962cfbd84ab7c88f58e3cf04"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/wp-rocket/statenweb-plugin-wp-rocket-90e369bcccbf9be672f3868a350dbd5ce6f1916a-zip-dc7574.zip",
+                "reference": "90e369bcccbf9be672f3868a350dbd5ce6f1916a",
+                "shasum": "5fadd7d97701eccb4f654f27e7c49c732be5bc27"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -507,9 +507,9 @@
             ],
             "description": "WordPress plugin `wp-rocket`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-wp-rocket/tree/3.9.0500000"
+                "source": "https://github.com/statenweb/wordress-plugin-wp-rocket/tree/3.10.3000000"
             },
-            "time": "2021-07-22T02:00:22+00:00"
+            "time": "2021-11-22T18:36:11+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
