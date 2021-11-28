@@ -369,17 +369,17 @@
         },
         {
             "name": "statenweb-plugin/advanced-custom-fields-pro",
-            "version": "5.11.1000000",
+            "version": "5.11.3000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-advanced-custom-fields-pro.git",
-                "reference": "d8c921364204063433b7c5a2dfc9d09fc058248d"
+                "reference": "1f6ee998691fa86ba7966d870e088a761bc103fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-d8c921364204063433b7c5a2dfc9d09fc058248d-zip-aca95e.zip",
-                "reference": "d8c921364204063433b7c5a2dfc9d09fc058248d",
-                "shasum": "a5b8b44067993f04b146a019f8a4e776b8beba37"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-1f6ee998691fa86ba7966d870e088a761bc103fa-zip-350f54.zip",
+                "reference": "1f6ee998691fa86ba7966d870e088a761bc103fa",
+                "shasum": "fea86aeea3144fb6ec4ec7fcf0822f823e202dc8"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -387,9 +387,9 @@
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.11.1000000"
+                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.11.3000000"
             },
-            "time": "2021-11-19T03:15:07+00:00"
+            "time": "2021-11-25T03:07:06+00:00"
         },
         {
             "name": "statenweb-plugin/elementor-pro",
@@ -636,15 +636,15 @@
         },
         {
             "name": "wpackagist-plugin/autoptimize",
-            "version": "2.9.2",
+            "version": "2.9.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/autoptimize/",
-                "reference": "tags/2.9.2"
+                "reference": "tags/2.9.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/autoptimize.2.9.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/autoptimize.2.9.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
