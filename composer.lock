@@ -175,16 +175,16 @@
         },
         {
             "name": "phpoption/phpoption",
-            "version": "1.8.0",
+            "version": "1.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/schmittjoh/php-option.git",
-                "reference": "5455cb38aed4523f99977c4a12ef19da4bfe2a28"
+                "reference": "eab7a0df01fe2344d172bff4cd6dbd3f8b84ad15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/5455cb38aed4523f99977c4a12ef19da4bfe2a28",
-                "reference": "5455cb38aed4523f99977c4a12ef19da4bfe2a28",
+                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/eab7a0df01fe2344d172bff4cd6dbd3f8b84ad15",
+                "reference": "eab7a0df01fe2344d172bff4cd6dbd3f8b84ad15",
                 "shasum": ""
             },
             "require": {
@@ -192,7 +192,7 @@
             },
             "require-dev": {
                 "bamarni/composer-bin-plugin": "^1.4.1",
-                "phpunit/phpunit": "^6.5.14 || ^7.0.20 || ^8.5.19 || ^9.5.8"
+                "phpunit/phpunit": "^6.5.14 || ^7.5.20 || ^8.5.19 || ^9.5.8"
             },
             "type": "library",
             "extra": {
@@ -212,11 +212,13 @@
             "authors": [
                 {
                     "name": "Johannes M. Schmitt",
-                    "email": "schmittjoh@gmail.com"
+                    "email": "schmittjoh@gmail.com",
+                    "homepage": "https://github.com/schmittjoh"
                 },
                 {
                     "name": "Graham Campbell",
-                    "email": "hello@gjcampbell.co.uk"
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
                 }
             ],
             "description": "Option Type for PHP",
@@ -226,7 +228,7 @@
                 "php",
                 "type"
             ],
-            "time": "2021-08-28T21:27:29+00:00"
+            "time": "2021-12-04T23:24:31+00:00"
         },
         {
             "name": "roots/wordpress",
@@ -369,17 +371,17 @@
         },
         {
             "name": "statenweb-plugin/advanced-custom-fields-pro",
-            "version": "5.11.3000000",
+            "version": "5.11.4000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-advanced-custom-fields-pro.git",
-                "reference": "1f6ee998691fa86ba7966d870e088a761bc103fa"
+                "reference": "0eb52afee4bedcbce8ccc705fbb54eff14454bcb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-1f6ee998691fa86ba7966d870e088a761bc103fa-zip-350f54.zip",
-                "reference": "1f6ee998691fa86ba7966d870e088a761bc103fa",
-                "shasum": "fea86aeea3144fb6ec4ec7fcf0822f823e202dc8"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/advanced-custom-fields-pro/statenweb-plugin-advanced-custom-fields-pro-0eb52afee4bedcbce8ccc705fbb54eff14454bcb-zip-22cd6d.zip",
+                "reference": "0eb52afee4bedcbce8ccc705fbb54eff14454bcb",
+                "shasum": "4f87e0095cf6e3b12710eae1d75231f5fe6d8e7c"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -387,9 +389,9 @@
             ],
             "description": "WordPress plugin `advanced-custom-fields-pro`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.11.3000000"
+                "source": "https://github.com/statenweb/wordress-plugin-advanced-custom-fields-pro/tree/5.11.4000000"
             },
-            "time": "2021-11-25T03:07:06+00:00"
+            "time": "2021-12-03T13:47:07+00:00"
         },
         {
             "name": "statenweb-plugin/elementor-pro",
@@ -780,15 +782,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "17.6",
+            "version": "17.7.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/17.6"
+                "reference": "tags/17.7.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.7.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
