@@ -443,17 +443,17 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.15000000",
+            "version": "2.5.15000001",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "7127e18e7cd4198d0aee2bf7036bc04e770bfdcc"
+                "reference": "a5971556be537d8f65def343ea717023aca88fe3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-7127e18e7cd4198d0aee2bf7036bc04e770bfdcc-zip-49cd20.zip",
-                "reference": "7127e18e7cd4198d0aee2bf7036bc04e770bfdcc",
-                "shasum": "f4045b38090d3d3c77ef79bdfe913e7dea13e868"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-a5971556be537d8f65def343ea717023aca88fe3-zip-14ce1c.zip",
+                "reference": "a5971556be537d8f65def343ea717023aca88fe3",
+                "shasum": "cf29460a42fbf772f3fbde78c5cc9f0105c83ba4"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -461,9 +461,9 @@
             ],
             "description": "WordPress plugin `gravityforms`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.15000000"
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.15000001"
             },
-            "time": "2021-11-18T02:59:10+00:00"
+            "time": "2021-12-14T17:36:40+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
@@ -577,16 +577,16 @@
         },
         {
             "name": "vlucas/phpdotenv",
-            "version": "v3.6.9",
+            "version": "v3.6.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/phpdotenv.git",
-                "reference": "a1bf4c9853d90ade427b4efe35355fc41b3d6988"
+                "reference": "5b547cdb25825f10251370f57ba5d9d924e6f68e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/a1bf4c9853d90ade427b4efe35355fc41b3d6988",
-                "reference": "a1bf4c9853d90ade427b4efe35355fc41b3d6988",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/5b547cdb25825f10251370f57ba5d9d924e6f68e",
+                "reference": "5b547cdb25825f10251370f57ba5d9d924e6f68e",
                 "shasum": ""
             },
             "require": {
@@ -621,11 +621,13 @@
             "authors": [
                 {
                     "name": "Graham Campbell",
-                    "email": "hello@gjcampbell.co.uk"
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
                 },
                 {
                     "name": "Vance Lucas",
-                    "email": "vance@vancelucas.com"
+                    "email": "vance@vancelucas.com",
+                    "homepage": "https://github.com/vlucas"
                 }
             ],
             "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
@@ -634,7 +636,7 @@
                 "env",
                 "environment"
             ],
-            "time": "2021-10-02T19:07:56+00:00"
+            "time": "2021-12-12T23:02:06+00:00"
         },
         {
             "name": "wpackagist-plugin/autoptimize",
@@ -656,15 +658,15 @@
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.4.8",
+            "version": "3.5.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.4.8"
+                "reference": "tags/3.5.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.4.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.5.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -782,15 +784,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "17.7.1",
+            "version": "17.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/17.7.1"
+                "reference": "tags/17.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.7.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.8.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
