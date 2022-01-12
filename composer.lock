@@ -108,10 +108,10 @@
         },
         {
             "name": "deliciousbrains-plugin/wp-migrate-db-pro",
-            "version": "2.2.1",
+            "version": "2.2.2",
             "dist": {
                 "type": "zip",
-                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.2.1&composer_key=A3E1F7021543E61F2196AADB74515E59"
+                "url": "https://composer.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=2.2.2&composer_key=A3E1F7021543E61F2196AADB74515E59"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -443,17 +443,17 @@
         },
         {
             "name": "statenweb-plugin/gravityforms",
-            "version": "2.5.15000001",
+            "version": "2.5.16000000",
             "source": {
                 "type": "git",
                 "url": "git@github.com:statenweb/wordress-plugin-gravityforms.git",
-                "reference": "a5971556be537d8f65def343ea717023aca88fe3"
+                "reference": "c0e00ace9f15d2f110b01655d7149f81457ecddc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-a5971556be537d8f65def343ea717023aca88fe3-zip-14ce1c.zip",
-                "reference": "a5971556be537d8f65def343ea717023aca88fe3",
-                "shasum": "cf29460a42fbf772f3fbde78c5cc9f0105c83ba4"
+                "url": "https://satis.statenweb.com/dist/statenweb-plugin/gravityforms/statenweb-plugin-gravityforms-c0e00ace9f15d2f110b01655d7149f81457ecddc-zip-cf2edc.zip",
+                "reference": "c0e00ace9f15d2f110b01655d7149f81457ecddc",
+                "shasum": "e2e6caf8717cd6ffaa71ee81147397ac0f43cbe9"
             },
             "type": "wordpress-plugin",
             "license": [
@@ -461,9 +461,9 @@
             ],
             "description": "WordPress plugin `gravityforms`",
             "support": {
-                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.15000001"
+                "source": "https://github.com/statenweb/wordress-plugin-gravityforms/tree/2.5.16000000"
             },
-            "time": "2021-12-14T17:36:40+00:00"
+            "time": "2022-01-12T14:55:15+00:00"
         },
         {
             "name": "statenweb-plugin/webarx",
@@ -787,15 +787,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "17.8",
+            "version": "17.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/17.8"
+                "reference": "tags/17.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.9.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
